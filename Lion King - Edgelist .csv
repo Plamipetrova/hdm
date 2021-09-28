@@ -1,6 +1,6 @@
 from,to,weight,relationship
 S,N,3,1
-S,T ,3,3
+S,T,3,3
 S,P,3,3
 S,C,3,1
 N,S,3,1
