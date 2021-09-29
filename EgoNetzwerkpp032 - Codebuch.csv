@@ -1,0 +1,11 @@
+sex ,,,relation
+1=w,,,1= Kommiliton:in
+2=m,,,2=Freund:in
+,,,3=Partner:in
+age,,,
+von 15-20 = 1,,,weight 
+vo 21-26 = 2,,,1=strong
+,,,3=very strong
+Education,,,
+Abitur = 1,,,Id
+Bachelor = 2,,,A bis D
