@@ -1,0 +1,41 @@
+Codes Nodes,,,,,,,,Codes Edge,
+,,,,,,,,,
+id = Nennung,,,sex,1=female,,,,from,(id) = Abkuerzung Name
+name = Vollständiger Name ,,,,2=male ,,,,,
+name_short = Nachname ,,,,,,,,,
+,,,,,,,,to,(id) = Organisation
+birth = Geburtsjahr,,,type,0=Person ,,,,,
+,,,,1=Organisation ,,,,,
+position = jetztige Position,1 = Staatssekretär/in,,,,,,,relationship ,1=Ministerium  
+,2 = Minister/in,,party = Parteizugehörigkeit,gruene = Die Grünen,,,,,2=politiche Funktionen
+,,,,spd = SDP,,,,,3=Ehrenamt
+education = höchster Bildungsabschluss,1 = Diplom,,,fdp = FPD,,,,,4=Unternehmen und Aufsichtsreate
+,2 = Promotion,,,,,,,,5=Stipendien
+,3 = Staatsexamen,,religion,1 = evangelisch,,,,,6=Berufsteatigkeiten
+,4 = Magister,,,2 = römisch-katholisch,,,,,7=Studienort in In- und Ausland
+,,,,,,,,,
+subject = Fachrichtung bei Studium/Promotion,1= Politik,,kids = Anzahl der Kinder,,,,,,
+,2 = Rechtswissenschaften,,,,,,,"year = Jahr, in dem die Variable relationship erhoben wurde",
+,3 = Wirtschaft,,twitter = Anzahl der Twitter-Follower,,,,,,
+,4 = Soziales,,,,,,,,
+,,,instagram = Anzahl der Instagram-Follower,,,,,,
+,,,,,,,,,
+,,,"facebook = Anzahl der Facebook-Follower
+",,,,,,
+,,,youtube = Anzahl der Youtube-Abonnenten,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+"1 = Achtung: Regierung umfasst auch Staatsekretäre und das Bundeskanzleramt, etc. hier sollte als Knoten das entsprechende Ministerium angegeben werden.",,,,,,,,,
+,,,,,,,,,
+"2 = aktuelle und ehemalige politische Funktionen in politischen Ausschüssen, Gremien und der Partei. etc. ",,,,,,,,,
+,,,,,,,,,
+"3 = umfasst alle Mitgliedschaften in NGOs, Stiftungen, Gedenkstätten, etc: werden im Bundestagsprofil als Körperschaften öffentlichen Rechts bezeichnet.",,,,,,,,,
+,,,,,,,,,
+"4 = Beteiligung an Unternehmen durch Mandate, etwa Aufsichtsratsmandate, Gremien, etc.",,,,,,,,,
+,,,,,,,,,
+"5 = erhalten Stipendien (egal wann), etwa Deutsche Studienstiftung, Parteinahe Stiftungen, Internationale Organisationen im In- und Ausland etc.",,,,,,,,,
+,,,,,,,,,
+"6 = ausgeübte Berufstätigkeiten, falls vorhanden",,,,,,,,,
+,,,,,,,,,
+7 = Studien- bzw. (längere) Aufenthaltsort(e) in In- und Ausland,,,,,,,,,
